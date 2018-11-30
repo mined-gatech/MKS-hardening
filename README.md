@@ -8,6 +8,14 @@ MATLAB implementation of Material Knowledge System for predicting stress--strain
 
 `predict_ss_power` -- example script showing how to use the calibrated linkages for prediction of stress--strain curves of composites with phases exhibiting power-law strain hardening behavior
 
+`data\linkages.mat` -- MATLAB file containing calibrated linkages (i.e., polynomial coefficients)
+
+`data\calibration.mat` -- MATLAB file containing ensemble of microstructures used for calibration as well as their 2-point statistics and principal component basis needed for using the calibrated linkages
+
+`data\ms_examples.mat` -- MATLAB file containing 38 example microstructures (different from calibration set) that can be used for testing the models
+
+`vendor` -- folder with dependencies needed to use the prediction functions. 
+
 ## Publication
 
 To cite this code and to see more details, refer to
