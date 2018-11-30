@@ -2,7 +2,7 @@ MATLAB implementation of Material Knowledge System for predicting stress--strain
 
 ## Contents
 
-`predict_resonse` -- example script showing how to use the calibrated linkages for prediction of responses (effective strength and strain rate partitioning) for two-phase microstructure(s) 
+`predict_response` -- example script showing how to use the calibrated linkages for prediction of responses (effective strength and strain rate partitioning) for two-phase microstructure(s) 
 
 `predict_ss_linear` -- example script showing how to use the calibrated linkages for prediction of stress--strain curves of composites with phases exhibiting linear strain hardening behavior
 
